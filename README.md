@@ -36,4 +36,6 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://www.kindpng.com/picc/m/27-277891_logo-gmail-png-file-gmail-icon-svg-wikimedia.png" height="40" width="52" alt="gmail logo"  />
+
 </div>
