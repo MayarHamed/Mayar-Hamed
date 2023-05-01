@@ -27,7 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel logo"  />
 
 </div>
 
